@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Perhappiness: Tutorias da Ana 
 
-You can use the [editor on GitHub](https://github.com/anabaarbosa/perhappiness/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Lista de transmissão
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Entenda aqui qual é a função, como criar e gerenciar suas listas.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**O recurso Lista de transmissão, possibilita o envio de mensagens para várias pessoas de uma só vez; são também listas para as quais você pode enviar mensagens mais de uma vez sem a necessidade de selecionar todos os contatos a cada envio.**
 
-```markdown
-Syntax highlighted code block
+> A funcionalidade Lista de transmissão está disponível apenas para o aplicativo mobile do _WhatsApp_.
 
-# Header 1
-## Header 2
-### Header 3
+#### Criando uma lista de transmissão 
 
-- Bulleted
-- List
+  1. Abra o aplicativo WhatsApp;
+  2. Mais opções;
+  3. Nova transmissão;
+  2. Selecione os contatos que você deseja adicionar à lista;
+  3. Clique em confirmar.
+ 
+Seguindo os passos acima, você cria uma nova lista de transmissão. 
 
-1. Numbered
-2. List
+> A mensagem enviada para a sua lista de transmissão só será entregue aos destinatários que têm o seu número salvo no celular. 
 
-**Bold** and _Italic_ and `Code` text
+![lista de transmissão](https://chatguru.com.br/wp-content/uploads/2021/03/como-fazer-lista-de-transmissao-whatsapp-1024x437.jpg)
+ 
+**A resposta de um ou mais destinatários, aparecerá apenas para você na aba conversas. Caso queira a participação de todos, você pode criar um grupo.**
 
-[Link](url) and ![Image](src)
-```
+#### Editando uma lista de transmissão
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 1. Selecione a lista de transmissão desejada.
+ 2. Clique em Mais opções; 
+ 3. Dados da lista de transmissão;
+ 3. Em dados da lista de transmissão você poderá:
+    - Mudar o nome da sua lista clicando em Editar;
+    - Adicionar novos destinatários à lista clicando em Adicionar destinatário;
+    - Remover destinatários clicando em Editar destinatários e no"x" próximo ao nome do contato e, em seguida, confirmando.
 
-### Jekyll Themes
+![editando](https://static.appgeek.com.br/imagens/lista-de-transmissao-whatsapp2-copiar-cke.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anabaarbosa/perhappiness/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Apagando uma lista de transmissão
 
-### Support or Contact
+ 1. Clique e segure a lista de transmissão que você deseja apagar;
+ 2. Depois clique em apagar lista de transmissão > Apagar.
+ 
+      ou
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 1. Abra a lista de transmissão que você deseja apagar;
+ 2. Clique no nome da lista;
+ 3. Clique em apagar lista de transmissão> Apagar.
+
+![apagando](https://baratodecelular.com.br/wp-content/uploads/2021/03/como-apagar-lista-transmissao-whatsapp-3.jpg)
